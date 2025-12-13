@@ -5,3 +5,5 @@ dotenv
 nbformat
 beautifulsoup4
 requests
+langchain-mcp-adapters
+fastmcp
